@@ -2,6 +2,12 @@ package com.mixer.trees.heap;
 
 import java.util.Arrays;
 
+
+//important questions
+//1. Find kth largest or kth smallest number?
+//2. Find the Binary tree is max heap or not?
+//3. Minimum cost of ropes problem.
+
 public class HeapTest {
 
     static int heap[];
